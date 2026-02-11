@@ -1,0 +1,4 @@
+pandas, numpy, requests (API), matplotlib (graphs), nltk (data processing, text based), 
+opencv (image and video processing), tensorflow (machine learning), keras, pytorch, scikit-learn,
+modules for gui: kivy, PyQt5, tkinter
+pygame
