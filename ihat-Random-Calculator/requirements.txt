@@ -1,6 +1,5 @@
 sympy
 numpy
-matplotlib.pyplot
+matplotlib
 pathlib
-queue
 tkinter
